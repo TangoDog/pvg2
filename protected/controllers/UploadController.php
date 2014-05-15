@@ -66,13 +66,58 @@ class UploadController extends Controller
 
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
-
+                
+                // make the directory to store the pic:
+                if(!is_dir(Yii::getPathOfAlias('webroot').'/images/uploads')) {
+                   mkdir(Yii::getPathOfAlias('webroot').'/images/uploads');
+                   chmod(Yii::getPathOfAlias('webroot').'/images/uploads', 0755); 
+                   // the default implementation makes it under 777 permission, which you could possibly change recursively before deployment, but here's less of a headache in case you don't
+                }
+                Yii::trace('Entered Create');
 		if(isset($_POST['Upload']))
 		{
-			$model->attributes=$_POST['Upload'];
-			if($model->save())
-				$this->redirect(array('view','id'=>$model->id));
-		}
+			//$model->attributes=$_POST['Upload'];
+                        Yii::trace('Post entered, $_FILES is'.CVarDumper::dumpAsString($_FILES));
+                        // THIS is how you capture those uploaded images: remember that in your CMultiFile widget, you set 'name' => 'spreads'
+                        $images = CUploadedFile::getInstancesByName('spreads');
+                        Yii::trace('Post entered, $images name will be ');
+                        // proceed if the images have been setp
+                        if (isset($images) && count($images) > 0) 
+                                foreach($images as $image) {
+                                     Yii::trace('Post entered, $images name will be '.$image->name);
+                                     $pathFile = Yii::getPathOfAlias('webroot').'/images/uploads/'.$image->name;
+                                     $model->url = $pathFile;
+                                     $model->user_id = 1;
+                                     $model->created = date('m-d-Y');
+                                     Yii::trace('Post entered, $images name will be '.$pathFile);
+                                    if ($image->saveAs($pathFile)) {
+                                        // add it to the main model now
+                                        // run R script to process the file and do the data
+                                          exec("Rscript /var/www/pvg/protected/R/testExec.R", $output, $return);
+                                          Yii::trace('Post entered, $return is'.CVarDumper::dumpAsString($return));
+                                          Yii::trace('Post entered, $output is'.CVarDumper::dumpAsString($output));
+                                           // echo "Dir returned "  $return. " and output:\n";
+                                          //  var_dump($output);
+//                                        $img_add = new Picture();
+//                                        $img_add->filename = $pic->name; //it might be $img_add->name for you, filename is just what I chose to call it in my model
+//                                        $img_add->topic_id = $model->id; // this links your picture model to the main model (like your user, or profile model)
+//
+//                                        $img_add->save(); // DONE
+                                    }
+                                    else Yii::trace('File Save failed for '.$image->name);
+                                } // foreach
+                        //save the rest of your information from the form
+                       if ($model->save()) {
+                           Yii::trace('Saved Model');
+                           //$this->redirect(array('view','id'=>$model->id));
+                       }
+                       else Yii::trace('Model Not Saved');
+       } 
+                else Yii::trace('$Images not set');
+                            
+//			if($model->save())
+//				$this->redirect(array('view','id'=>$model->id));
+		
 
 		$this->render('create',array(
 			'model'=>$model,
