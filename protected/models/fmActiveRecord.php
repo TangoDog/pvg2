@@ -15,7 +15,7 @@ abstract class fmActiveRecord extends CActiveRecord
 					'condition' => $this->tableName().'.dbowner='.Yii::app()->session['dbowner']
 			);
 			
-	  return array(
+                return array(
 					//'alias' => $this->modelName,
 					
 					'condition' => '',

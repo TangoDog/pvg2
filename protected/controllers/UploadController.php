@@ -109,11 +109,54 @@ class UploadController extends Controller
                         //save the rest of your information from the form
                        if ($model->save()) {
                            Yii::trace('Saved Model');
-                           //$this->redirect(array('view','id'=>$model->id));
+                           // Now use PHP files to parse the csv into arrays and then insert into the patient record
+                           $row = 1;
+                           $rawData = new Rawdata;
+                           $keys = array_keys($rawData->attributeLabels());
+//                           $keyFile = Yii::getPathOfAlias('webroot').'/images/uploads/keyfile.txt';
+//                                    
+//                           if (($handle = fopen($keyFile, "r")) !== FALSE) {
+//                               $keys  = fgetcsv($handle, ","); // 1 line with 341 fields
+//                               $num2 = count($keys);
+//                           }
+//                           
+                           $csvFile = $model->url;
+                           if (($handle = fopen($csvFile, "r")) !== FALSE) {
+                                while (($data = fgetcsv($handle, ",")) !== FALSE) {
+                                    // ignore the heading line - $ro1 ==1
+                                    if ($row>1) {
+                                        $rawData = new Rawdata;
+                                        // these are the last five keys not collected in the csv read
+//                                        'id' => 'ID',
+//                                        'created' => 'Created',
+//                                        'updated' => 'Updated',
+//                                        'user_id' => 'User',
+//                                        'edited_by' => 'Edited By',
+                                        $data[] = "";  // primary key
+                                        $data[] = date("Y/m/d"); //'created' => 'Created',
+                                        $data[] = date("Y/m/d"); //'updated' => 'Updated',
+                                        $data[] = "1";       //'user_id' => 'User',
+                                        $data[] = "1";       //'edited_by' => 'Edited By',
+                                        $atts = array_combine($keys,$data);
+                                        $rawData->attributes=$atts ;
+//                                        if($rawData->save()){};  // don't do anything yet
+//                                        $num = count($data);
+//                                        echo "<p> $num fields in line $row: <br /></p>";
+//                                        for ($c=0; $c < $num; $c++) {
+//                                            echo $data[$c] . ",&nbsp";
+//                                        }
+//                                        echo "\n";
+                                    }
+                                    $row++;
+                                    
+                                }
+                                fclose($handle);
+                            }
+                               //$this->redirect(array('view','id'=>$model->id));
                        }
                        else Yii::trace('Model Not Saved');
        } 
-                else Yii::trace('$Images not set');
+                else Yii::trace('Records not set');
                             
 //			if($model->save())
 //				$this->redirect(array('view','id'=>$model->id));
