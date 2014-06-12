@@ -50,12 +50,12 @@
 	<?php echo CHtml::encode($data->diagnosis); ?>
 	<br />
 
-	<b><?php echo CHtml::encode($data->getAttributeLabel('documented_target_refraction')); ?>:</b>
-	<?php echo CHtml::encode($data->documented_target_refraction); ?>
-	<br />
-
 	<b><?php echo CHtml::encode($data->getAttributeLabel('pohx')); ?>:</b>
 	<?php echo CHtml::encode($data->pohx); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('pohx_dryeyes')); ?>:</b>
+	<?php echo CHtml::encode($data->pohx_dryeyes); ?>
 	<br />
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('pohx_oag_steroidresponse')); ?>:</b>
@@ -76,6 +76,10 @@
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('current_systemic_medications')); ?>:</b>
 	<?php echo CHtml::encode($data->current_systemic_medications); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('documented_target_refraction')); ?>:</b>
+	<?php echo CHtml::encode($data->documented_target_refraction); ?>
 	<br />
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('holladay_ii_target_chosen')); ?>:</b>
@@ -156,14 +160,6 @@
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('sk1yes')); ?>:</b>
 	<?php echo CHtml::encode($data->sk1yes); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('sk2yes_w_mmc')); ?>:</b>
-	<?php echo CHtml::encode($data->sk2yes_w_mmc); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('calc_any_sk')); ?>:</b>
-	<?php echo CHtml::encode($data->calc_any_sk); ?>
 	<br />
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('comments')); ?>:</b>

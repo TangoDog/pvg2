@@ -118,6 +118,7 @@ class UploadController extends Controller
                            if (($handle = fopen($csvFile, "r")) !== FALSE) {
                                 while (($data = fgetcsv($handle, ",")) !== FALSE) {
                                     // ignore the heading line - $ro1 ==1
+                                    if ($row==1) Yii::trace(CVarDumper::dumpAsString($data));
                                     if ($row>1) {
                                         $rawData = new Rawdata;
                                         // these are the last five keys not collected in the csv read
@@ -131,6 +132,7 @@ class UploadController extends Controller
                                         $data[] = date("Y/m/d"); //'updated' => 'Updated',
                                         $data[] =  1;       //'user_id' => 'User',
                                         $data[] = 1;       //'edited_by' => 'Edited By',
+                                        //if ($row==2) Yii::trace(CVarDumper::dumpAsString($date));
                                         $atts = array_combine($keys,$data);
                                         $atts['comments'] = substr($atts['comments'],0,48);
                                         $rawData->attributes=$atts ;

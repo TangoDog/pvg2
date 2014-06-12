@@ -851,3 +851,2633 @@ in /var/www/pvg2/index.php (13)
 in /var/www/pvg2/index.php (13)
 2014/06/12 11:38:07 [trace] [system.CModule] Loading "coreMessages" application component
 in /var/www/pvg2/index.php (13)
+2014/06/12 11:42:51 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:42:51 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:42:51 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:42:51 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/layouts/column1.php (2)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:42:51 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/views/layouts/main.php (35)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 11:42:51 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/views/layouts/main.php (35)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 11:42:51 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (53)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 11:42:51 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:20 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:20 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:20 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:20 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:22 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:22 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:22 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/site/login.php (23)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:22 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/site/login.php (30)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:22 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/site/login.php (52)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:22 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/views/layouts/main.php (35)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+2014/06/12 11:43:22 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/views/layouts/main.php (35)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+2014/06/12 11:43:22 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:35 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:35 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:35 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:35 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/models/LoginForm.php (71)
+in /var/www/pvg2/protected/controllers/SiteController.php (94)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:35 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/models/LoginForm.php (71)
+in /var/www/pvg2/protected/controllers/SiteController.php (94)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [application] Records not set
+in /var/www/pvg2/protected/controllers/UploadController.php (161)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/upload/_form.php (17)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/upload/_form.php (55)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (43)
+in /var/www/pvg2/protected/views/layouts/column2.php (22)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 11:43:37 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:08 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:09 [trace] [application] Post entered, $_FILES isarray
+(
+    'spreads' => array
+    (
+        'name' => array
+        (
+            0 => 'Phaco DMEK Refractive Outcomes Study Data export 3-31-14Formatted2.csv'
+        )
+        'type' => array
+        (
+            0 => 'application/csv'
+        )
+        'tmp_name' => array
+        (
+            0 => '/tmp/phprVU2eE'
+        )
+        'error' => array
+        (
+            0 => 0
+        )
+        'size' => array
+        (
+            0 => 140579
+        )
+    )
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (80)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:09 [trace] [application] Post entered, $images name will be 
+in /var/www/pvg2/protected/controllers/UploadController.php (83)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:09 [trace] [application] Post entered, $images name will be Phaco DMEK Refractive Outcomes Study Data export 3-31-14Formatted2.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (87)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:09 [trace] [application] Post entered, $images name will be /var/www/pvg2/images/uploads/Phaco DMEK Refractive Outcomes Study Data export 3-31-14Formatted2.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (92)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:10 [trace] [application] Post entered, $return is0
+in /var/www/pvg2/protected/controllers/UploadController.php (97)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:10 [trace] [application] Post entered, $output isarray
+(
+    0 => ' [1] 5569 4237  901 2583 7239 5785 5784 8786 3021 8950'
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:19 [trace] [system.db.ar.CActiveRecord] Upload.insert()
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:19 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `tbl_upload` (`url`, `user_id`, `created`, `updated`) VALUES (:yp0, :yp1, NOW(), NOW())
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:20 [trace] [application] Saved Model
+in /var/www/pvg2/protected/controllers/UploadController.php (105)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:44:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:45:23 [error] [php] array_combine(): Both parameters should have an equal number of elements (/var/www/pvg2/protected/controllers/UploadController.php:134)
+Stack trace:
+#0 /var/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/framework/web/filters/CFilterChain.php(133): UploadController->runAction()
+#2 /var/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#4 /var/framework/web/filters/CInlineFilter.php(58): UploadController->filterAccessControl()
+#5 /var/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#6 /var/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/framework/web/CController.php(265): UploadController->runActionWithFilters()
+#8 /var/framework/web/CWebApplication.php(282): UploadController->run()
+#9 /var/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /var/www/pvg2/index.php(13): CWebApplication->run()
+REQUEST_URI=/pvg2/index.php/upload/create?XDEBUG_SESSION_START=netbeans-xdebug
+in /var/www/pvg2/protected/controllers/UploadController.php (134)
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:45:23 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (134)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:33 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:33 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:33 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/layouts/column1.php (2)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:33 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 12:05:33 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 12:05:33 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (54)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 12:05:33 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [application] Records not set
+in /var/www/pvg2/protected/controllers/UploadController.php (161)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/upload/_form.php (17)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/upload/_form.php (55)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (44)
+in /var/www/pvg2/protected/views/layouts/column2.php (22)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 12:05:45 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [application] Post entered, $_FILES isarray
+(
+    'spreads' => array
+    (
+        'name' => array
+        (
+            0 => 'Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv'
+        )
+        'type' => array
+        (
+            0 => 'application/csv'
+        )
+        'tmp_name' => array
+        (
+            0 => '/tmp/phpqMquDf'
+        )
+        'error' => array
+        (
+            0 => 0
+        )
+        'size' => array
+        (
+            0 => 122681
+        )
+    )
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (80)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [application] Post entered, $images name will be 
+in /var/www/pvg2/protected/controllers/UploadController.php (83)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [application] Post entered, $images name will be Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (87)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [application] Post entered, $images name will be /var/www/pvg2/images/uploads/Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (92)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [application] Post entered, $return is0
+in /var/www/pvg2/protected/controllers/UploadController.php (97)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:21 [trace] [application] Post entered, $output isarray
+(
+    0 => ' [1] 2051 4578 1303 8617 6431 2359 6166 6006 7076 8337'
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:24 [trace] [system.db.ar.CActiveRecord] Upload.insert()
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:24 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `tbl_upload` (`url`, `user_id`, `created`, `updated`) VALUES (:yp0, :yp1, NOW(), NOW())
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:25 [trace] [application] Saved Model
+in /var/www/pvg2/protected/controllers/UploadController.php (105)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:06:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:40 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:41 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:44 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:56:57 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:00 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:05 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:12 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 12:57:16 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:39 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:46 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:49 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:52 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:04:56 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:01 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.web.filters.CFilterChain] Running filter RawdataController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.db.ar.CActiveRecord] Rawdata.count()
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tbl_rawdata` `t`
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.db.ar.CActiveRecord] Rawdata.findAll()
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tbl_rawdata` `t` LIMIT 10
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:06 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/rawdata/index.php (20)
+in /var/www/pvg2/protected/controllers/RawdataController.php (128)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/site/login.php (23)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/site/login.php (30)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/site/login.php (52)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+2014/06/12 13:05:17 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/controllers/SiteController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/models/LoginForm.php (71)
+in /var/www/pvg2/protected/controllers/SiteController.php (94)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/models/LoginForm.php (71)
+in /var/www/pvg2/protected/controllers/SiteController.php (94)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [application] Records not set
+in /var/www/pvg2/protected/controllers/UploadController.php (161)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/upload/_form.php (17)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/upload/_form.php (55)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (44)
+in /var/www/pvg2/protected/views/layouts/column2.php (22)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 13:05:26 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [application] Post entered, $_FILES isarray
+(
+    'spreads' => array
+    (
+        'name' => array
+        (
+            0 => 'Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv'
+        )
+        'type' => array
+        (
+            0 => 'application/csv'
+        )
+        'tmp_name' => array
+        (
+            0 => '/tmp/phpNEZUdg'
+        )
+        'error' => array
+        (
+            0 => 0
+        )
+        'size' => array
+        (
+            0 => 122681
+        )
+    )
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (80)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [application] Post entered, $images name will be 
+in /var/www/pvg2/protected/controllers/UploadController.php (83)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [application] Post entered, $images name will be Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (87)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [application] Post entered, $images name will be /var/www/pvg2/images/uploads/Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (92)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [application] Post entered, $return is0
+in /var/www/pvg2/protected/controllers/UploadController.php (97)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [application] Post entered, $output isarray
+(
+    0 => ' [1] 9656 5546 9171 6090 2211 1050 4707 6610 2061 2395'
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.db.ar.CActiveRecord] Upload.insert()
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `tbl_upload` (`url`, `user_id`, `created`, `updated`) VALUES (:yp0, :yp1, NOW(), NOW())
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [application] Saved Model
+in /var/www/pvg2/protected/controllers/UploadController.php (105)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [error] [php] array_combine(): Both parameters should have an equal number of elements (/var/www/pvg2/protected/controllers/UploadController.php:134)
+Stack trace:
+#0 /var/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/framework/web/filters/CFilterChain.php(133): UploadController->runAction()
+#2 /var/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#4 /var/framework/web/filters/CInlineFilter.php(58): UploadController->filterAccessControl()
+#5 /var/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#6 /var/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/framework/web/CController.php(265): UploadController->runActionWithFilters()
+#8 /var/framework/web/CWebApplication.php(282): UploadController->run()
+#9 /var/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /var/www/pvg2/index.php(13): CWebApplication->run()
+REQUEST_URI=/pvg2/index.php/upload/create
+in /var/www/pvg2/protected/controllers/UploadController.php (134)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:06:09 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (134)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:42 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:42 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:42 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:42 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/layouts/column1.php (2)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:42 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 13:08:42 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 13:08:42 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (54)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 13:08:42 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [application] Records not set
+in /var/www/pvg2/protected/controllers/UploadController.php (161)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/upload/_form.php (17)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/upload/_form.php (55)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (44)
+in /var/www/pvg2/protected/views/layouts/column2.php (22)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 13:08:50 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [application] Post entered, $_FILES isarray
+(
+    'spreads' => array
+    (
+        'name' => array
+        (
+            0 => 'Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv'
+        )
+        'type' => array
+        (
+            0 => 'application/csv'
+        )
+        'tmp_name' => array
+        (
+            0 => '/tmp/phpjpo1CD'
+        )
+        'error' => array
+        (
+            0 => 0
+        )
+        'size' => array
+        (
+            0 => 122681
+        )
+    )
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (80)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [application] Post entered, $images name will be 
+in /var/www/pvg2/protected/controllers/UploadController.php (83)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [application] Post entered, $images name will be Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (87)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [application] Post entered, $images name will be /var/www/pvg2/images/uploads/Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (92)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [application] Post entered, $return is0
+in /var/www/pvg2/protected/controllers/UploadController.php (97)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:10 [trace] [application] Post entered, $output isarray
+(
+    0 => ' [1] 3241 6997 5709 3572 6982 2935 8516   87 6577 2042'
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:12 [trace] [system.db.ar.CActiveRecord] Upload.insert()
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:12 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `tbl_upload` (`url`, `user_id`, `created`, `updated`) VALUES (:yp0, :yp1, NOW(), NOW())
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:13 [trace] [application] Saved Model
+in /var/www/pvg2/protected/controllers/UploadController.php (105)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:09:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:10:39 [error] [php] array_combine(): Both parameters should have an equal number of elements (/var/www/pvg2/protected/controllers/UploadController.php:134)
+Stack trace:
+#0 /var/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/framework/web/filters/CFilterChain.php(133): UploadController->runAction()
+#2 /var/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /var/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#4 /var/framework/web/filters/CInlineFilter.php(58): UploadController->filterAccessControl()
+#5 /var/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#6 /var/framework/web/CController.php(291): CFilterChain->run()
+#7 /var/framework/web/CController.php(265): UploadController->runActionWithFilters()
+#8 /var/framework/web/CWebApplication.php(282): UploadController->run()
+#9 /var/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /var/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /var/www/pvg2/index.php(13): CWebApplication->run()
+REQUEST_URI=/pvg2/index.php/upload/create
+in /var/www/pvg2/protected/controllers/UploadController.php (134)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:10:39 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (134)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:16 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:16 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:16 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/layouts/column1.php (2)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:16 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 13:15:16 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 13:15:16 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (54)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 13:15:16 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [application] Records not set
+in /var/www/pvg2/protected/controllers/UploadController.php (161)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/upload/_form.php (17)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/upload/_form.php (55)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (44)
+in /var/www/pvg2/protected/views/layouts/column2.php (22)
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+2014/06/12 13:15:23 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (169)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [application] Post entered, $_FILES isarray
+(
+    'spreads' => array
+    (
+        'name' => array
+        (
+            0 => 'Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv'
+        )
+        'type' => array
+        (
+            0 => 'application/csv'
+        )
+        'tmp_name' => array
+        (
+            0 => '/tmp/phpzLPCrb'
+        )
+        'error' => array
+        (
+            0 => 0
+        )
+        'size' => array
+        (
+            0 => 122681
+        )
+    )
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (80)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [application] Post entered, $images name will be 
+in /var/www/pvg2/protected/controllers/UploadController.php (83)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [application] Post entered, $images name will be Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (87)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [application] Post entered, $images name will be /var/www/pvg2/images/uploads/Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (92)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [application] Post entered, $return is0
+in /var/www/pvg2/protected/controllers/UploadController.php (97)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:39 [trace] [application] Post entered, $output isarray
+(
+    0 => ' [1] 4991 9721  630 6142 1541 5819 8735 3659 8111 1963'
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:42 [trace] [system.db.ar.CActiveRecord] Upload.insert()
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:42 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `tbl_upload` (`url`, `user_id`, `created`, `updated`) VALUES (:yp0, :yp1, NOW(), NOW())
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:42 [trace] [application] Saved Model
+in /var/www/pvg2/protected/controllers/UploadController.php (105)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 13:15:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:02 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:02 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:02 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/layouts/column1.php (2)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:02 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 14:05:02 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 14:05:02 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (54)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 14:05:02 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [application] Records not set
+in /var/www/pvg2/protected/controllers/UploadController.php (163)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/upload/_form.php (17)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (171)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/upload/_form.php (55)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (171)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (44)
+in /var/www/pvg2/protected/views/layouts/column2.php (22)
+in /var/www/pvg2/protected/controllers/UploadController.php (171)
+2014/06/12 14:05:12 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (171)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [application] Post entered, $_FILES isarray
+(
+    'spreads' => array
+    (
+        'name' => array
+        (
+            0 => 'Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv'
+        )
+        'type' => array
+        (
+            0 => 'application/csv'
+        )
+        'tmp_name' => array
+        (
+            0 => '/tmp/phpIxPEzH'
+        )
+        'error' => array
+        (
+            0 => 0
+        )
+        'size' => array
+        (
+            0 => 122681
+        )
+    )
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (80)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [application] Post entered, $images name will be 
+in /var/www/pvg2/protected/controllers/UploadController.php (83)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [application] Post entered, $images name will be Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (87)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:30 [trace] [application] Post entered, $images name will be /var/www/pvg2/images/uploads/Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (92)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:31 [trace] [application] Post entered, $return is0
+in /var/www/pvg2/protected/controllers/UploadController.php (97)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:31 [trace] [application] Post entered, $output isarray
+(
+    0 => ' [1] 5262 9024 4003 4694 3633 8130  785 4220 9371 8272'
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:34 [trace] [system.db.ar.CActiveRecord] Upload.insert()
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:34 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `tbl_upload` (`url`, `user_id`, `created`, `updated`) VALUES (:yp0, :yp1, NOW(), NOW())
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:35 [trace] [application] Saved Model
+in /var/www/pvg2/protected/controllers/UploadController.php (105)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:44 [error] [php] Undefined variable: date (/var/www/pvg2/protected/controllers/UploadController.php:121)
+Stack trace:
+#0 /var/framework/web/filters/CFilterChain.php(133): UploadController->runAction()
+#1 /var/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /var/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#3 /var/framework/web/filters/CInlineFilter.php(58): UploadController->filterAccessControl()
+#4 /var/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#5 /var/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/framework/web/CController.php(265): UploadController->runActionWithFilters()
+#7 /var/framework/web/CWebApplication.php(282): UploadController->run()
+#8 /var/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/pvg2/index.php(13): CWebApplication->run()
+REQUEST_URI=/pvg2/index.php/upload/create
+in /var/www/pvg2/protected/controllers/UploadController.php (121)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:05:44 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (121)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [application] Post entered, $_FILES isarray
+(
+    'spreads' => array
+    (
+        'name' => array
+        (
+            0 => 'Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv'
+        )
+        'type' => array
+        (
+            0 => 'application/csv'
+        )
+        'tmp_name' => array
+        (
+            0 => '/tmp/phpegVZXb'
+        )
+        'error' => array
+        (
+            0 => 0
+        )
+        'size' => array
+        (
+            0 => 122681
+        )
+    )
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (80)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [application] Post entered, $images name will be 
+in /var/www/pvg2/protected/controllers/UploadController.php (83)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [application] Post entered, $images name will be Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (87)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [application] Post entered, $images name will be /var/www/pvg2/images/uploads/Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (92)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [application] Post entered, $return is0
+in /var/www/pvg2/protected/controllers/UploadController.php (97)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:24 [trace] [application] Post entered, $output isarray
+(
+    0 => ' [1] 8532 1255 3979 4480 6165 1080 9319 6961 9570 5603'
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:26 [trace] [system.db.ar.CActiveRecord] Upload.insert()
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:26 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `tbl_upload` (`url`, `user_id`, `created`, `updated`) VALUES (:yp0, :yp1, NOW(), NOW())
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:27 [trace] [application] Saved Model
+in /var/www/pvg2/protected/controllers/UploadController.php (105)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:06:32 [trace] [application] array
+(
+    0 => 'Date of Surgery'
+    1 => 'First Name'
+    2 => 'Last Name'
+    3 => 'Eye'
+    4 => 'Age'
+    5 => 'DOB'
+    6 => 'Race'
+    7 => 'Sex'
+    8 => 'MI #'
+    9 => 'Diagnosis (Bold = Verified)'
+    10 => 'POHx: Other'
+    11 => 'POHx: Dry Eye (Using Ats or reported)'
+    12 => 'POHx: OAG or steroid response'
+    13 => 'PAST MEDICAL HISTORY'
+    14 => 'PAST OCULAR SURGERY'
+    15 => 'Current Eye Medications'
+    16 => 'Current Systemic Medications'
+    17 => 'Documented Target Refraction'
+    18 => 'Holladay II Target chosen'
+    19 => 'IOL Model'
+    20 => 'IOL Power'
+    21 => 'Preop Date'
+    22 => 'presph'
+    23 => 'precyl'
+    24 => 'M axis'
+    25 => 'PreBCVA'
+    26 => 'preiop'
+    27 => 'prepachy'
+    28 => 'Axial Length'
+    29 => 'Hor W-t-W'
+    30 => 'Phakic Lens Thickness'
+    31 => 'Phakic Anterior Chamber Depth'
+    32 => 'K1'
+    33 => 'K1a'
+    34 => 'K2'
+    35 => 'K2a'
+    36 => 'SK (0=no, 1=yes, 2=yes w MMC)'
+    37 => '[Calc] Any SK'
+    38 => 'Comments'
+    39 => '5mo-8 (?=no scheduled)'
+    40 => 'uncorrected va (udva) 6'
+    41 => 'sph6'
+    42 => 'cyl6'
+    43 => 'M axis'
+    44 => 'bcva6'
+    45 => 'iop6'
+    46 => 'pachy6'
+    47 => 'ecd6'
+    48 => 'Axial Length'
+    49 => 'Anterior Chamber Depth'
+    50 => 'K1'
+    51 => 'K1a'
+    52 => 'K2'
+    53 => 'K2a'
+    54 => '[Calc] Achieved SE 6'
+    55 => '[Calc] SE Error'
+    56 => '[Calc] Change in Pachy (Preop to 6)'
+    57 => '9-14 mos (?=no appt)'
+    58 => 'uncorrected va (udva) 12'
+    59 => '12 mo M sph'
+    60 => 'M cyl'
+    61 => 'M axis'
+    62 => 'BCVA 12mo'
+    63 => 'IOP'
+    64 => 'Pachy 1 year'
+    65 => 'ECC1 year'
+    66 => 'Axial Length'
+    67 => 'Anterior Chamber Depth'
+    68 => 'K1'
+    69 => 'K1a'
+    70 => 'K2'
+    71 => 'K2a'
+    72 => '[Calc] Achieved SE 12'
+    73 => '[Calc] SE Error 12'
+    74 => '[Calc] Change in Pachy (Preop to 12)'
+    75 => '[Calc] Followup @ 6 or 12'
+    76 => '[Calc] Followup @ 6 and 12'
+    77 => '[Calc] Preop SE if f/u @ 6 & 12'
+    78 => '[Calc] 6 mo SE if f/u @ 6 & 12'
+    79 => '[Calc] 12 mo SE if f/u @ 6 & 12'
+    80 => '[Calc] Length of Followup (days)'
+    81 => '[Calc] Length of followup (months)'
+    82 => '[Calc] Difference 6 mo to 1 year Achieved SE'
+    83 => '[Calc] 6 month avg K - preop avg K'
+    84 => '[Calc] 12 month avg K - preop avg K'
+    85 => '[Calc] Last avg K - preop avg K'
+    86 => '[Calc] Preop SE'
+    87 => '[Calc] Last  SE'
+    88 => '[Calc] Last SE Error'
+    89 => '[Calc] Last Change in Pachy'
+    90 => '[Calc] Change in AL'
+    91 => '[Calc] Target Refraction if SE Error known'
+    92 => '[Calc] Change in Last CDVA'
+    93 => '[Calc] Last Cyl'
+    94 => '[Calc] Change in Cyl'
+    95 => '[Calc] Last CDVA'
+    96 => '[Calc] Preop CDVA if Last CDVA Known'
+    97 => '[Calc] Last UDVA - Distance Eyes Only'
+    98 => '[Calc] MISSING PENTACAM 6 mo DATA?'
+    99 => '[Calc] MISSING PENTACAM 12 mo DATA?'
+    100 => '[Calc] Missing all followup pentacam with known preop'
+    101 => 'Preop Rh:'
+    102 => 'Preop Rv:'
+    103 => 'Preop Axis (flat):'
+    104 => 'Preop Astig:'
+    105 => 'Preop Ecc:'
+    106 => 'Preop EccSph:'
+    107 => 'Preop C.Height(Endo):'
+    108 => 'Preop C.Height(Epi):'
+    109 => 'Preop Pachy Apex:'
+    110 => 'Preop Pachy Pupil:'
+    111 => 'Preop Pachy Sup:'
+    112 => 'Preop Pachy Inf:'
+    113 => 'Preop Pachy Nas:'
+    114 => 'Preop Pachy Tem:'
+    115 => 'Preop Pachy Min:'
+    116 => 'Preop PachyMinX:'
+    117 => 'Preop PachyMinY:'
+    118 => 'Preop Sag3mm:'
+    119 => 'Preop Sag5mm:'
+    120 => 'Preop Sag7mm:'
+    121 => 'Preop Sag9mm:'
+    122 => 'Preop Sag11mm:'
+    123 => 'Preop Sag13mm:'
+    124 => 'Preop Sag15mm:'
+    125 => 'Preop KPD:'
+    126 => 'Preop Post Sag3mm:'
+    127 => 'Preop Post Sag5mm:'
+    128 => 'Preop Post Sag7mm:'
+    129 => 'Preop Post Sag9mm:'
+    130 => 'Preop Post Sag11mm:'
+    131 => 'Preop Post Sag13mm:'
+    132 => 'Preop Post Sag15mm:'
+    133 => 'Preop Post KPD:'
+    134 => 'Preop K1 F (D):'
+    135 => 'Preop K2 F (D):'
+    136 => 'Preop Km F (mm):'
+    137 => 'Preop Axis F (flat):'
+    138 => 'Preop Astig F (D):'
+    139 => 'Preop K1 B (D):'
+    140 => 'Preop K2 B (D):'
+    141 => 'Preop Km B (mm):'
+    142 => 'Preop Axis B (flat):'
+    143 => 'Preop Astig B (D):'
+    144 => 'Preop C.Vol D 3mm:'
+    145 => 'Preop C.Vol D 5mm:'
+    146 => 'Preop C.Vol D 7mm:'
+    147 => 'Preop C.Vol D 10mm:'
+    148 => 'Preop ISV (Index Surface Variance)'
+    149 => '6mo Rh:'
+    150 => '6mo Rv:'
+    151 => '6mo Axis (flat):'
+    152 => '6mo Astig:'
+    153 => '6mo Ecc:'
+    154 => '6mo EccSph:'
+    155 => '6mo C.Height(Endo):'
+    156 => '6mo C.Height(Epi):'
+    157 => '6mo Pachy Apex:'
+    158 => '6mo Pachy Pupil:'
+    159 => '6mo Pachy Sup:'
+    160 => '6mo Pachy Inf:'
+    161 => '6mo Pachy Nas:'
+    162 => '6mo Pachy Tem:'
+    163 => '6mo Pachy Min:'
+    164 => '6mo PachyMinX:'
+    165 => '6mo PachyMinY:'
+    166 => '6mo Sag3mm:'
+    167 => '6mo Sag5mm:'
+    168 => '6mo Sag7mm:'
+    169 => '6mo Sag9mm:'
+    170 => '6mo Sag11mm:'
+    171 => '6mo Sag13mm:'
+    172 => '6mo Sag15mm:'
+    173 => '6mo KPD:'
+    174 => '6mo Post Sag3mm:'
+    175 => '6mo Post Sag5mm:'
+    176 => '6mo Post Sag7mm:'
+    177 => '6mo Post Sag9mm:'
+    178 => '6mo Post Sag11mm:'
+    179 => '6mo Post Sag13mm:'
+    180 => '6mo Post Sag15mm:'
+    181 => '6mo Post KPD:'
+    182 => '6 mo K1 F (D):'
+    183 => '6 mo K2 F (D):'
+    184 => '6 mo Km F (D):'
+    185 => '6 mo Axis F (flat):'
+    186 => '6 mo Astig F (D):'
+    187 => '6 mo K1 B (D):'
+    188 => '6 mo K2 B (D):'
+    189 => '6 mo Km B (mm):'
+    190 => '6 mo Axis B (flat):'
+    191 => '6 mo Astig B (D):'
+    192 => '6 mo C.Vol D 3mm:'
+    193 => '6 mo C.Vol D 5mm:'
+    194 => '6 mo C.Vol D 7mm:'
+    195 => '6 mo C.Vol D 10mm:'
+    196 => '6 mo ISV (Index Surface Variance)'
+    197 => '12mo Rh:'
+    198 => '12mo Rv:'
+    199 => '12mo Axis (flat):'
+    200 => '12mo Astig:'
+    201 => '12mo Ecc:'
+    202 => '12mo EccSph:'
+    203 => '12mo C.Height(Endo):'
+    204 => '12mo C.Height(Epi):'
+    205 => '12mo Pachy Apex:'
+    206 => '12mo Pachy Pupil:'
+    207 => '12mo Pachy Sup:'
+    208 => '12mo Pachy Inf:'
+    209 => '12mo Pachy Nas:'
+    210 => '12mo Pachy Tem:'
+    211 => '12mo Pachy Min:'
+    212 => '12mo PachyMinX:'
+    213 => '12mo PachyMinY:'
+    214 => '12mo Sag3mm:'
+    215 => '12mo Sag5mm:'
+    216 => '12mo Sag7mm:'
+    217 => '12mo Sag9mm:'
+    218 => '12mo Sag11mm:'
+    219 => '12mo Sag13mm:'
+    220 => '12mo Sag15mm:'
+    221 => '12mo KPD:'
+    222 => '12mo Post Sag3mm:'
+    223 => '12mo Post Sag5mm:'
+    224 => '12mo Post Sag7mm:'
+    225 => '12mo Post Sag9mm:'
+    226 => '12mo Post Sag11mm:'
+    227 => '12mo Post Sag13mm:'
+    228 => '12mo Post Sag15mm:'
+    229 => '12mo Post KPD:'
+    230 => '12 mo K1 F (D):'
+    231 => '12 mo K2 F (D):'
+    232 => '12 mo Km F (mm):'
+    233 => '12 mo Axis F (flat):'
+    234 => '12 mo Astig F (D):'
+    235 => '12 mo K1 B (D):'
+    236 => '12 mo K2 B (D):'
+    237 => '12 mo Km B (mm):'
+    238 => '12 mo Axis B (flat):'
+    239 => '12 mo Astig B (D):'
+    240 => '12 mo C.Vol D 3mm:'
+    241 => '12 mo C.Vol D 5mm:'
+    242 => '12 mo C.Vol D 7mm:'
+    243 => '12 mo C.Vol D 10mm:'
+    244 => '12 mo ISV (Index Surface Variance)'
+    245 => '[Calc]  Last Rh:'
+    246 => '[Calc]  Last Rv:'
+    247 => '[Calc]  Last Axis (flat):'
+    248 => '[Calc]  Last Astig:'
+    249 => '[Calc]  Last Ecc:'
+    250 => '[Calc]  Last EccSph:'
+    251 => '[Calc]  Last C.Height(Endo):'
+    252 => '[Calc]  Last C.Height(Epi):'
+    253 => '[Calc]  Last Pachy Apex:'
+    254 => '[Calc]  Last Pachy Pupil:'
+    255 => '[Calc]  Last Pachy Sup:'
+    256 => '[Calc]  Last Pachy Inf:'
+    257 => '[Calc]  Last Pachy Nas:'
+    258 => '[Calc]  Last Pachy Tem:'
+    259 => '[Calc]  Last Pachy Min:'
+    260 => '[Calc]  Last PachyMinX:'
+    261 => '[Calc]  Last PachyMinY:'
+    262 => '[Calc]  Last Sag3mm:'
+    263 => '[Calc]  Last Sag5mm:'
+    264 => '[Calc]  Last Sag7mm:'
+    265 => '[Calc]  Last Sag9mm:'
+    266 => '[Calc]  Last Sag11mm:'
+    267 => '[Calc]  Last Sag13mm:'
+    268 => '[Calc]  Last Sag15mm:'
+    269 => '[Calc]  Last KPD:'
+    270 => '[Calc]  Last Post Sag3mm:'
+    271 => '[Calc]  Last Post Sag5mm:'
+    272 => '[Calc]  Last Post Sag7mm:'
+    273 => '[Calc]  Last Post Sag9mm:'
+    274 => '[Calc]  Last Post Sag11mm:'
+    275 => '[Calc]  Last Post Sag13mm:'
+    276 => '[Calc]  Last Post Sag15mm:'
+    277 => '[Calc]  Last Post KPD:'
+    278 => '[Calc]  Last K1 F (D):'
+    279 => '[Calc]  Last K2 F (D):'
+    280 => '[Calc]  Last Km F (mm):'
+    281 => '[Calc]  Last Axis F (flat):'
+    282 => '[Calc]  Last Astig F (D):'
+    283 => '[Calc]  Last K1 B (D):'
+    284 => '[Calc]  Last K2 B (D):'
+    285 => '[Calc]  Last Km B (mm):'
+    286 => '[Calc]  Last Axis B (flat):'
+    287 => '[Calc]  Last Astig B (D):'
+    288 => '[Calc]  Last C.Vol D 3mm:'
+    289 => '[Calc]  Last C.Vol D 5mm:'
+    290 => '[Calc]  Last C.Vol D 7mm:'
+    291 => '[Calc]  Last C.Vol D 10mm:'
+    292 => '[Calc]  Last ISV (Index Surface Variance)'
+    293 => '[Calc]  Delta Last Rh:'
+    294 => '[Calc]  Delta Last Rv:'
+    295 => '[Calc]  Delta Last Axis (flat):'
+    296 => '[Calc]  Delta Last Astig:'
+    297 => '[Calc]  Delta Last Ecc:'
+    298 => '[Calc]  Delta Last EccSph:'
+    299 => '[Calc]  Delta Last C.Height(Endo):'
+    300 => '[Calc]  Delta Last C.Height(Epi):'
+    301 => '[Calc]  Delta Last Pachy Apex:'
+    302 => '[Calc]  Delta Last Pachy Pupil:'
+    303 => '[Calc]  Delta Last Pachy Sup:'
+    304 => '[Calc]  Delta Last Pachy Inf:'
+    305 => '[Calc]  Delta Last Pachy Nas:'
+    306 => '[Calc]  Delta Last Pachy Tem:'
+    307 => '[Calc]  Delta Last Pachy Min:'
+    308 => '[Calc]  Delta Last PachyMinX:'
+    309 => '[Calc]  Delta Last PachyMinY:'
+    310 => '[Calc]  Delta Last Sag3mm:'
+    311 => '[Calc]  Delta Last Sag5mm:'
+    312 => '[Calc]  Delta Last Sag7mm:'
+    313 => '[Calc]  Delta Last Sag9mm:'
+    314 => '[Calc]  Delta Last Sag11mm:'
+    315 => '[Calc]  Delta Last Sag13mm:'
+    316 => '[Calc]  Delta Last Sag15mm:'
+    317 => '[Calc]  Delta Last KPD:'
+    318 => '[Calc]  Delta Last Post Sag3mm:'
+    319 => '[Calc]  Delta Last Post Sag5mm:'
+    320 => '[Calc]  Delta Last Post Sag7mm:'
+    321 => '[Calc]  Delta Last Post Sag9mm:'
+    322 => '[Calc]  Delta Last Post Sag11mm:'
+    323 => '[Calc]  Delta Last Post Sag13mm:'
+    324 => '[Calc]  Delta Last Post Sag15mm:'
+    325 => '[Calc]  Delta Last Post KPD:'
+    326 => '[Calc]  Delta K1 F (D):'
+    327 => '[Calc]  Delta K2 F (D):'
+    328 => '[Calc]  Delta Km F (mm):'
+    329 => '[Calc]  Delta Axis F (flat):'
+    330 => '[Calc]  Delta Astig F (D):'
+    331 => '[Calc]  Delta K1 B (D):'
+    332 => '[Calc]  Delta K2 B (D):'
+    333 => '[Calc]  Delta Km B (mm):'
+    334 => '[Calc]  Delta Axis B (flat):'
+    335 => '[Calc]  Delta Astig B (D):'
+    336 => '[Calc]  Delta C.Vol D 3mm:'
+    337 => '[Calc]  Delta C.Vol D 5mm:'
+    338 => '[Calc]  Delta C.Vol D 7mm:'
+    339 => '[Calc]  Delta C.Vol D 10mm:'
+    340 => '[Calc]  Delta ISV (Index Surface Variance)'
+    341 => '[Calc]  6 vs 12 m K1 F'
+    342 => '[Calc]  6 vs 12 m K2 F'
+    343 => '[Calc]  6 vs 12 m K1 B'
+    344 => '[Calc]  6 vs 12 m K2 B'
+    345 => ''
+    346 => ''
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (121)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:06 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:06 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:06 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/layouts/column1.php (2)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:06 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 14:11:06 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/protected/views/layouts/main.php (36)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 14:11:06 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (54)
+in /var/www/pvg2/protected/views/layouts/column1.php (6)
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+2014/06/12 14:11:06 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/controllers/SiteController.php (32)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [application] Records not set
+in /var/www/pvg2/protected/controllers/UploadController.php (163)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/protected/views/upload/_form.php (17)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (171)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/protected/views/upload/_form.php (55)
+in /var/www/pvg2/protected/views/upload/create.php (18)
+in /var/www/pvg2/protected/controllers/UploadController.php (171)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/views/layouts/main.php (44)
+in /var/www/pvg2/protected/views/layouts/column2.php (22)
+in /var/www/pvg2/protected/controllers/UploadController.php (171)
+2014/06/12 14:11:11 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (171)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.web.filters.CFilterChain] Running filter UploadController.filteraccessControl()
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/protected/controllers/UploadController.php (65)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [application] Entered Create
+in /var/www/pvg2/protected/controllers/UploadController.php (76)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [application] Post entered, $_FILES isarray
+(
+    'spreads' => array
+    (
+        'name' => array
+        (
+            0 => 'Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv'
+        )
+        'type' => array
+        (
+            0 => 'application/csv'
+        )
+        'tmp_name' => array
+        (
+            0 => '/tmp/phpxAOU23'
+        )
+        'error' => array
+        (
+            0 => 0
+        )
+        'size' => array
+        (
+            0 => 118682
+        )
+    )
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (80)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [application] Post entered, $images name will be 
+in /var/www/pvg2/protected/controllers/UploadController.php (83)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [application] Post entered, $images name will be Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (87)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [application] Post entered, $images name will be /var/www/pvg2/images/uploads/Phaco DMEK Refractive Outcomes Study Data export 3-31-14Final.csv
+in /var/www/pvg2/protected/controllers/UploadController.php (92)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [application] Post entered, $return is0
+in /var/www/pvg2/protected/controllers/UploadController.php (97)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:27 [trace] [application] Post entered, $output isarray
+(
+    0 => ' [1] 9441 6032 6783 3356 4209 8037 8328 5471 3713  876'
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (98)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:30 [trace] [system.db.ar.CActiveRecord] Upload.insert()
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `tbl_upload` (`url`, `user_id`, `created`, `updated`) VALUES (:yp0, :yp1, NOW(), NOW())
+in /var/www/pvg2/protected/controllers/UploadController.php (104)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:31 [trace] [application] Saved Model
+in /var/www/pvg2/protected/controllers/UploadController.php (105)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/protected/controllers/UploadController.php (108)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:11:46 [trace] [application] array
+(
+    0 => 'Date of Surgery'
+    1 => 'First Name'
+    2 => 'Last Name'
+    3 => 'Eye'
+    4 => 'Age'
+    5 => 'DOB'
+    6 => 'Race'
+    7 => 'Sex'
+    8 => 'MI #'
+    9 => 'Diagnosis (Bold = Verified)'
+    10 => 'POHx: Other'
+    11 => 'POHx: Dry Eye (Using Ats or reported)'
+    12 => 'POHx: OAG or steroid response'
+    13 => 'PAST MEDICAL HISTORY'
+    14 => 'PAST OCULAR SURGERY'
+    15 => 'Current Eye Medications'
+    16 => 'Current Systemic Medications'
+    17 => 'Documented Target Refraction'
+    18 => 'Holladay II Target chosen'
+    19 => 'IOL Model'
+    20 => 'IOL Power'
+    21 => 'Preop Date'
+    22 => 'presph'
+    23 => 'precyl'
+    24 => 'M axis'
+    25 => 'PreBCVA'
+    26 => 'preiop'
+    27 => 'prepachy'
+    28 => 'Axial Length'
+    29 => 'Hor W-t-W'
+    30 => 'Phakic Lens Thickness'
+    31 => 'Phakic Anterior Chamber Depth'
+    32 => 'K1'
+    33 => 'K1a'
+    34 => 'K2'
+    35 => 'K2a'
+    36 => 'SK (0=no, 1=yes, 2=yes w MMC)'
+    37 => '[Calc] Any SK'
+    38 => 'Comments'
+    39 => '5mo-8 (?=no scheduled)'
+    40 => 'uncorrected va (udva) 6'
+    41 => 'sph6'
+    42 => 'cyl6'
+    43 => 'M axis'
+    44 => 'bcva6'
+    45 => 'iop6'
+    46 => 'pachy6'
+    47 => 'ecd6'
+    48 => 'Axial Length'
+    49 => 'Anterior Chamber Depth'
+    50 => 'K1'
+    51 => 'K1a'
+    52 => 'K2'
+    53 => 'K2a'
+    54 => '[Calc] Achieved SE 6'
+    55 => '[Calc] SE Error'
+    56 => '[Calc] Change in Pachy (Preop to 6)'
+    57 => '9-14 mos (?=no appt)'
+    58 => 'uncorrected va (udva) 12'
+    59 => '12 mo M sph'
+    60 => 'M cyl'
+    61 => 'M axis'
+    62 => 'BCVA 12mo'
+    63 => 'IOP'
+    64 => 'Pachy 1 year'
+    65 => 'ECC1 year'
+    66 => 'Axial Length'
+    67 => 'Anterior Chamber Depth'
+    68 => 'K1'
+    69 => 'K1a'
+    70 => 'K2'
+    71 => 'K2a'
+    72 => '[Calc] Achieved SE 12'
+    73 => '[Calc] SE Error 12'
+    74 => '[Calc] Change in Pachy (Preop to 12)'
+    75 => '[Calc] Followup @ 6 or 12'
+    76 => '[Calc] Followup @ 6 and 12'
+    77 => '[Calc] Preop SE if f/u @ 6 & 12'
+    78 => '[Calc] 6 mo SE if f/u @ 6 & 12'
+    79 => '[Calc] 12 mo SE if f/u @ 6 & 12'
+    80 => '[Calc] Length of Followup (days)'
+    81 => '[Calc] Length of followup (months)'
+    82 => '[Calc] Difference 6 mo to 1 year Achieved SE'
+    83 => '[Calc] 6 month avg K - preop avg K'
+    84 => '[Calc] 12 month avg K - preop avg K'
+    85 => '[Calc] Last avg K - preop avg K'
+    86 => '[Calc] Preop SE'
+    87 => '[Calc] Last  SE'
+    88 => '[Calc] Last SE Error'
+    89 => '[Calc] Last Change in Pachy'
+    90 => '[Calc] Change in AL'
+    91 => '[Calc] Target Refraction if SE Error known'
+    92 => '[Calc] Change in Last CDVA'
+    93 => '[Calc] Last Cyl'
+    94 => '[Calc] Change in Cyl'
+    95 => '[Calc] Last CDVA'
+    96 => '[Calc] Preop CDVA if Last CDVA Known'
+    97 => '[Calc] Last UDVA - Distance Eyes Only'
+    98 => '[Calc] MISSING PENTACAM 6 mo DATA?'
+    99 => '[Calc] MISSING PENTACAM 12 mo DATA?'
+    100 => '[Calc] Missing all followup pentacam with known preop'
+    101 => 'Preop Rh:'
+    102 => 'Preop Rv:'
+    103 => 'Preop Axis (flat):'
+    104 => 'Preop Astig:'
+    105 => 'Preop Ecc:'
+    106 => 'Preop EccSph:'
+    107 => 'Preop C.Height(Endo):'
+    108 => 'Preop C.Height(Epi):'
+    109 => 'Preop Pachy Apex:'
+    110 => 'Preop Pachy Pupil:'
+    111 => 'Preop Pachy Sup:'
+    112 => 'Preop Pachy Inf:'
+    113 => 'Preop Pachy Nas:'
+    114 => 'Preop Pachy Tem:'
+    115 => 'Preop Pachy Min:'
+    116 => 'Preop PachyMinX:'
+    117 => 'Preop PachyMinY:'
+    118 => 'Preop Sag3mm:'
+    119 => 'Preop Sag5mm:'
+    120 => 'Preop Sag7mm:'
+    121 => 'Preop Sag9mm:'
+    122 => 'Preop Sag11mm:'
+    123 => 'Preop Sag13mm:'
+    124 => 'Preop Sag15mm:'
+    125 => 'Preop KPD:'
+    126 => 'Preop Post Sag3mm:'
+    127 => 'Preop Post Sag5mm:'
+    128 => 'Preop Post Sag7mm:'
+    129 => 'Preop Post Sag9mm:'
+    130 => 'Preop Post Sag11mm:'
+    131 => 'Preop Post Sag13mm:'
+    132 => 'Preop Post Sag15mm:'
+    133 => 'Preop Post KPD:'
+    134 => 'Preop K1 F (D):'
+    135 => 'Preop K2 F (D):'
+    136 => 'Preop Km F (mm):'
+    137 => 'Preop Axis F (flat):'
+    138 => 'Preop Astig F (D):'
+    139 => 'Preop K1 B (D):'
+    140 => 'Preop K2 B (D):'
+    141 => 'Preop Km B (mm):'
+    142 => 'Preop Axis B (flat):'
+    143 => 'Preop Astig B (D):'
+    144 => 'Preop C.Vol D 3mm:'
+    145 => 'Preop C.Vol D 5mm:'
+    146 => 'Preop C.Vol D 7mm:'
+    147 => 'Preop C.Vol D 10mm:'
+    148 => 'Preop ISV (Index Surface Variance)'
+    149 => '6mo Rh:'
+    150 => '6mo Rv:'
+    151 => '6mo Axis (flat):'
+    152 => '6mo Astig:'
+    153 => '6mo Ecc:'
+    154 => '6mo EccSph:'
+    155 => '6mo C.Height(Endo):'
+    156 => '6mo C.Height(Epi):'
+    157 => '6mo Pachy Apex:'
+    158 => '6mo Pachy Pupil:'
+    159 => '6mo Pachy Sup:'
+    160 => '6mo Pachy Inf:'
+    161 => '6mo Pachy Nas:'
+    162 => '6mo Pachy Tem:'
+    163 => '6mo Pachy Min:'
+    164 => '6mo PachyMinX:'
+    165 => '6mo PachyMinY:'
+    166 => '6mo Sag3mm:'
+    167 => '6mo Sag5mm:'
+    168 => '6mo Sag7mm:'
+    169 => '6mo Sag9mm:'
+    170 => '6mo Sag11mm:'
+    171 => '6mo Sag13mm:'
+    172 => '6mo Sag15mm:'
+    173 => '6mo KPD:'
+    174 => '6mo Post Sag3mm:'
+    175 => '6mo Post Sag5mm:'
+    176 => '6mo Post Sag7mm:'
+    177 => '6mo Post Sag9mm:'
+    178 => '6mo Post Sag11mm:'
+    179 => '6mo Post Sag13mm:'
+    180 => '6mo Post Sag15mm:'
+    181 => '6mo Post KPD:'
+    182 => '6 mo K1 F (D):'
+    183 => '6 mo K2 F (D):'
+    184 => '6 mo Km F (D):'
+    185 => '6 mo Axis F (flat):'
+    186 => '6 mo Astig F (D):'
+    187 => '6 mo K1 B (D):'
+    188 => '6 mo K2 B (D):'
+    189 => '6 mo Km B (mm):'
+    190 => '6 mo Axis B (flat):'
+    191 => '6 mo Astig B (D):'
+    192 => '6 mo C.Vol D 3mm:'
+    193 => '6 mo C.Vol D 5mm:'
+    194 => '6 mo C.Vol D 7mm:'
+    195 => '6 mo C.Vol D 10mm:'
+    196 => '6 mo ISV (Index Surface Variance)'
+    197 => '12mo Rh:'
+    198 => '12mo Rv:'
+    199 => '12mo Axis (flat):'
+    200 => '12mo Astig:'
+    201 => '12mo Ecc:'
+    202 => '12mo EccSph:'
+    203 => '12mo C.Height(Endo):'
+    204 => '12mo C.Height(Epi):'
+    205 => '12mo Pachy Apex:'
+    206 => '12mo Pachy Pupil:'
+    207 => '12mo Pachy Sup:'
+    208 => '12mo Pachy Inf:'
+    209 => '12mo Pachy Nas:'
+    210 => '12mo Pachy Tem:'
+    211 => '12mo Pachy Min:'
+    212 => '12mo PachyMinX:'
+    213 => '12mo PachyMinY:'
+    214 => '12mo Sag3mm:'
+    215 => '12mo Sag5mm:'
+    216 => '12mo Sag7mm:'
+    217 => '12mo Sag9mm:'
+    218 => '12mo Sag11mm:'
+    219 => '12mo Sag13mm:'
+    220 => '12mo Sag15mm:'
+    221 => '12mo KPD:'
+    222 => '12mo Post Sag3mm:'
+    223 => '12mo Post Sag5mm:'
+    224 => '12mo Post Sag7mm:'
+    225 => '12mo Post Sag9mm:'
+    226 => '12mo Post Sag11mm:'
+    227 => '12mo Post Sag13mm:'
+    228 => '12mo Post Sag15mm:'
+    229 => '12mo Post KPD:'
+    230 => '12 mo K1 F (D):'
+    231 => '12 mo K2 F (D):'
+    232 => '12 mo Km F (mm):'
+    233 => '12 mo Axis F (flat):'
+    234 => '12 mo Astig F (D):'
+    235 => '12 mo K1 B (D):'
+    236 => '12 mo K2 B (D):'
+    237 => '12 mo Km B (mm):'
+    238 => '12 mo Axis B (flat):'
+    239 => '12 mo Astig B (D):'
+    240 => '12 mo C.Vol D 3mm:'
+    241 => '12 mo C.Vol D 5mm:'
+    242 => '12 mo C.Vol D 7mm:'
+    243 => '12 mo C.Vol D 10mm:'
+    244 => '12 mo ISV (Index Surface Variance)'
+    245 => '[Calc]  Last Rh:'
+    246 => '[Calc]  Last Rv:'
+    247 => '[Calc]  Last Axis (flat):'
+    248 => '[Calc]  Last Astig:'
+    249 => '[Calc]  Last Ecc:'
+    250 => '[Calc]  Last EccSph:'
+    251 => '[Calc]  Last C.Height(Endo):'
+    252 => '[Calc]  Last C.Height(Epi):'
+    253 => '[Calc]  Last Pachy Apex:'
+    254 => '[Calc]  Last Pachy Pupil:'
+    255 => '[Calc]  Last Pachy Sup:'
+    256 => '[Calc]  Last Pachy Inf:'
+    257 => '[Calc]  Last Pachy Nas:'
+    258 => '[Calc]  Last Pachy Tem:'
+    259 => '[Calc]  Last Pachy Min:'
+    260 => '[Calc]  Last PachyMinX:'
+    261 => '[Calc]  Last PachyMinY:'
+    262 => '[Calc]  Last Sag3mm:'
+    263 => '[Calc]  Last Sag5mm:'
+    264 => '[Calc]  Last Sag7mm:'
+    265 => '[Calc]  Last Sag9mm:'
+    266 => '[Calc]  Last Sag11mm:'
+    267 => '[Calc]  Last Sag13mm:'
+    268 => '[Calc]  Last Sag15mm:'
+    269 => '[Calc]  Last KPD:'
+    270 => '[Calc]  Last Post Sag3mm:'
+    271 => '[Calc]  Last Post Sag5mm:'
+    272 => '[Calc]  Last Post Sag7mm:'
+    273 => '[Calc]  Last Post Sag9mm:'
+    274 => '[Calc]  Last Post Sag11mm:'
+    275 => '[Calc]  Last Post Sag13mm:'
+    276 => '[Calc]  Last Post Sag15mm:'
+    277 => '[Calc]  Last Post KPD:'
+    278 => '[Calc]  Last K1 F (D):'
+    279 => '[Calc]  Last K2 F (D):'
+    280 => '[Calc]  Last Km F (mm):'
+    281 => '[Calc]  Last Axis F (flat):'
+    282 => '[Calc]  Last Astig F (D):'
+    283 => '[Calc]  Last K1 B (D):'
+    284 => '[Calc]  Last K2 B (D):'
+    285 => '[Calc]  Last Km B (mm):'
+    286 => '[Calc]  Last Axis B (flat):'
+    287 => '[Calc]  Last Astig B (D):'
+    288 => '[Calc]  Last C.Vol D 3mm:'
+    289 => '[Calc]  Last C.Vol D 5mm:'
+    290 => '[Calc]  Last C.Vol D 7mm:'
+    291 => '[Calc]  Last C.Vol D 10mm:'
+    292 => '[Calc]  Last ISV (Index Surface Variance)'
+    293 => '[Calc]  Delta Last Rh:'
+    294 => '[Calc]  Delta Last Rv:'
+    295 => '[Calc]  Delta Last Axis (flat):'
+    296 => '[Calc]  Delta Last Astig:'
+    297 => '[Calc]  Delta Last Ecc:'
+    298 => '[Calc]  Delta Last EccSph:'
+    299 => '[Calc]  Delta Last C.Height(Endo):'
+    300 => '[Calc]  Delta Last C.Height(Epi):'
+    301 => '[Calc]  Delta Last Pachy Apex:'
+    302 => '[Calc]  Delta Last Pachy Pupil:'
+    303 => '[Calc]  Delta Last Pachy Sup:'
+    304 => '[Calc]  Delta Last Pachy Inf:'
+    305 => '[Calc]  Delta Last Pachy Nas:'
+    306 => '[Calc]  Delta Last Pachy Tem:'
+    307 => '[Calc]  Delta Last Pachy Min:'
+    308 => '[Calc]  Delta Last PachyMinX:'
+    309 => '[Calc]  Delta Last PachyMinY:'
+    310 => '[Calc]  Delta Last Sag3mm:'
+    311 => '[Calc]  Delta Last Sag5mm:'
+    312 => '[Calc]  Delta Last Sag7mm:'
+    313 => '[Calc]  Delta Last Sag9mm:'
+    314 => '[Calc]  Delta Last Sag11mm:'
+    315 => '[Calc]  Delta Last Sag13mm:'
+    316 => '[Calc]  Delta Last Sag15mm:'
+    317 => '[Calc]  Delta Last KPD:'
+    318 => '[Calc]  Delta Last Post Sag3mm:'
+    319 => '[Calc]  Delta Last Post Sag5mm:'
+    320 => '[Calc]  Delta Last Post Sag7mm:'
+    321 => '[Calc]  Delta Last Post Sag9mm:'
+    322 => '[Calc]  Delta Last Post Sag11mm:'
+    323 => '[Calc]  Delta Last Post Sag13mm:'
+    324 => '[Calc]  Delta Last Post Sag15mm:'
+    325 => '[Calc]  Delta Last Post KPD:'
+    326 => '[Calc]  Delta K1 F (D):'
+    327 => '[Calc]  Delta K2 F (D):'
+    328 => '[Calc]  Delta Km F (mm):'
+    329 => '[Calc]  Delta Axis F (flat):'
+    330 => '[Calc]  Delta Astig F (D):'
+    331 => '[Calc]  Delta K1 B (D):'
+    332 => '[Calc]  Delta K2 B (D):'
+    333 => '[Calc]  Delta Km B (mm):'
+    334 => '[Calc]  Delta Axis B (flat):'
+    335 => '[Calc]  Delta Astig B (D):'
+    336 => '[Calc]  Delta C.Vol D 3mm:'
+    337 => '[Calc]  Delta C.Vol D 5mm:'
+    338 => '[Calc]  Delta C.Vol D 7mm:'
+    339 => '[Calc]  Delta C.Vol D 10mm:'
+    340 => '[Calc]  Delta ISV (Index Surface Variance)'
+    341 => '[Calc]  6 vs 12 m K1 F'
+    342 => '[Calc]  6 vs 12 m K2 F'
+    343 => '[Calc]  6 vs 12 m K1 B'
+    344 => '[Calc]  6 vs 12 m K2 B'
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (121)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:12:12 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/protected/controllers/UploadController.php (138)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:12:12 [warning] [application] Failed to set unsafe attribute "id" of "Rawdata".
+in /var/www/pvg2/protected/controllers/UploadController.php (138)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:12:24 [trace] [application] RawData Record 2 Failed Creation array
+(
+    'current_systemic_medications' => array
+    (
+        0 => 'Current Systemic Medications is too long (maximum is 100 characters).'
+    )
+    'preop_date' => array
+    (
+        0 => 'Preop Date is too long (maximum is 8 characters).'
+    )
+    'mos_9_14_no_appt' => array
+    (
+        0 => 'Mos 9 14 No Appt is too long (maximum is 8 characters).'
+    )
+    'calc_change_in_last_cdva' => array
+    (
+        0 => 'Calc Change In Last Cdva is too long (maximum is 8 characters).'
+    )
+)
+in /var/www/pvg2/protected/controllers/UploadController.php (143)
+in /var/www/pvg2/index.php (13)
+2014/06/12 14:12:45 [warning] [application] Failed to set unsafe attribute "id" of "Rawdata".
+in /var/www/pvg2/protected/controllers/UploadController.php (138)
+in /var/www/pvg2/index.php (13)

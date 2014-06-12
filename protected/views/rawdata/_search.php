@@ -62,13 +62,13 @@
 	</div>
 
 	<div class="row">
-		<?php echo $form->label($model,'documented_target_refraction'); ?>
-		<?php echo $form->textField($model,'documented_target_refraction',array('size'=>8,'maxlength'=>8)); ?>
+		<?php echo $form->label($model,'pohx'); ?>
+		<?php echo $form->textField($model,'pohx',array('size'=>60,'maxlength'=>255)); ?>
 	</div>
 
 	<div class="row">
-		<?php echo $form->label($model,'pohx'); ?>
-		<?php echo $form->textField($model,'pohx',array('size'=>60,'maxlength'=>255)); ?>
+		<?php echo $form->label($model,'pohx_dryeyes'); ?>
+		<?php echo $form->textField($model,'pohx_dryeyes',array('size'=>20,'maxlength'=>20)); ?>
 	</div>
 
 	<div class="row">
@@ -94,6 +94,11 @@
 	<div class="row">
 		<?php echo $form->label($model,'current_systemic_medications'); ?>
 		<?php echo $form->textField($model,'current_systemic_medications',array('size'=>60,'maxlength'=>100)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'documented_target_refraction'); ?>
+		<?php echo $form->textField($model,'documented_target_refraction',array('size'=>8,'maxlength'=>8)); ?>
 	</div>
 
 	<div class="row">
@@ -194,16 +199,6 @@
 	<div class="row">
 		<?php echo $form->label($model,'sk1yes'); ?>
 		<?php echo $form->textField($model,'sk1yes',array('size'=>20,'maxlength'=>20)); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->label($model,'sk2yes_w_mmc'); ?>
-		<?php echo $form->textField($model,'sk2yes_w_mmc',array('size'=>20,'maxlength'=>20)); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->label($model,'calc_any_sk'); ?>
-		<?php echo $form->textField($model,'calc_any_sk',array('size'=>20,'maxlength'=>20)); ?>
 	</div>
 
 	<div class="row">

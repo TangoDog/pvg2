@@ -80,15 +80,15 @@
 	</div>
 
 	<div class="row">
-		<?php echo $form->labelEx($model,'documented_target_refraction'); ?>
-		<?php echo $form->textField($model,'documented_target_refraction',array('size'=>8,'maxlength'=>8)); ?>
-		<?php echo $form->error($model,'documented_target_refraction'); ?>
-	</div>
-
-	<div class="row">
 		<?php echo $form->labelEx($model,'pohx'); ?>
 		<?php echo $form->textField($model,'pohx',array('size'=>60,'maxlength'=>255)); ?>
 		<?php echo $form->error($model,'pohx'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'pohx_dryeyes'); ?>
+		<?php echo $form->textField($model,'pohx_dryeyes',array('size'=>20,'maxlength'=>20)); ?>
+		<?php echo $form->error($model,'pohx_dryeyes'); ?>
 	</div>
 
 	<div class="row">
@@ -119,6 +119,12 @@
 		<?php echo $form->labelEx($model,'current_systemic_medications'); ?>
 		<?php echo $form->textField($model,'current_systemic_medications',array('size'=>60,'maxlength'=>100)); ?>
 		<?php echo $form->error($model,'current_systemic_medications'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'documented_target_refraction'); ?>
+		<?php echo $form->textField($model,'documented_target_refraction',array('size'=>8,'maxlength'=>8)); ?>
+		<?php echo $form->error($model,'documented_target_refraction'); ?>
 	</div>
 
 	<div class="row">
@@ -239,18 +245,6 @@
 		<?php echo $form->labelEx($model,'sk1yes'); ?>
 		<?php echo $form->textField($model,'sk1yes',array('size'=>20,'maxlength'=>20)); ?>
 		<?php echo $form->error($model,'sk1yes'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'sk2yes_w_mmc'); ?>
-		<?php echo $form->textField($model,'sk2yes_w_mmc',array('size'=>20,'maxlength'=>20)); ?>
-		<?php echo $form->error($model,'sk2yes_w_mmc'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'calc_any_sk'); ?>
-		<?php echo $form->textField($model,'calc_any_sk',array('size'=>20,'maxlength'=>20)); ?>
-		<?php echo $form->error($model,'calc_any_sk'); ?>
 	</div>
 
 	<div class="row">
