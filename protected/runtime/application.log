@@ -625,3 +625,229 @@ in /var/www/pvg2/index.php (13)
 in /var/www/pvg2/index.php (13)
 2014/06/12 11:17:45 [trace] [system.CModule] Loading "coreMessages" application component
 in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:32 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:45 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_migration`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_upload`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_user`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:49 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:37:51 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:01 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "user" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "session" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "db" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tbl_rawdata`
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/pvg2/index.php (13)
+2014/06/12 11:38:07 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/pvg2/index.php (13)

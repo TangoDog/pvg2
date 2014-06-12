@@ -67,6 +67,31 @@
 	</div>
 
 	<div class="row">
+		<?php echo $form->label($model,'pohx'); ?>
+		<?php echo $form->textField($model,'pohx',array('size'=>60,'maxlength'=>255)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'pohx_oag_steroidresponse'); ?>
+		<?php echo $form->textField($model,'pohx_oag_steroidresponse',array('size'=>60,'maxlength'=>255)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'past_medical_history'); ?>
+		<?php echo $form->textField($model,'past_medical_history',array('size'=>60,'maxlength'=>255)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'past_ocular_surgery'); ?>
+		<?php echo $form->textField($model,'past_ocular_surgery',array('size'=>60,'maxlength'=>255)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'current_eye_medications'); ?>
+		<?php echo $form->textField($model,'current_eye_medications',array('size'=>60,'maxlength'=>255)); ?>
+	</div>
+
+	<div class="row">
 		<?php echo $form->label($model,'current_systemic_medications'); ?>
 		<?php echo $form->textField($model,'current_systemic_medications',array('size'=>60,'maxlength'=>100)); ?>
 	</div>
@@ -1739,31 +1764,6 @@
 	<div class="row">
 		<?php echo $form->label($model,'edited_by'); ?>
 		<?php echo $form->textField($model,'edited_by'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->label($model,'pohx'); ?>
-		<?php echo $form->textField($model,'pohx',array('size'=>60,'maxlength'=>100)); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->label($model,'pohx_oag_steroidresponse'); ?>
-		<?php echo $form->textField($model,'pohx_oag_steroidresponse',array('size'=>60,'maxlength'=>100)); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->label($model,'past_medical_history'); ?>
-		<?php echo $form->textField($model,'past_medical_history',array('size'=>60,'maxlength'=>100)); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->label($model,'past_ocular_surgery'); ?>
-		<?php echo $form->textField($model,'past_ocular_surgery',array('size'=>60,'maxlength'=>100)); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->label($model,'current_eye_medications'); ?>
-		<?php echo $form->textField($model,'current_eye_medications',array('size'=>60,'maxlength'=>100)); ?>
 	</div>
 
 	<div class="row buttons">
