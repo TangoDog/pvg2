@@ -32,6 +32,7 @@ $this->menu=array(
 		'mi',
 		'diagnosis',
 		'documented_target_refraction',
+		'current_systemic_medications',
 		'holladay_ii_target_chosen',
 		'iol_model',
 		'iol_power',
@@ -366,5 +367,10 @@ $this->menu=array(
 		'updated',
 		'user_id',
 		'edited_by',
+		'pohx',
+		'pohx_oag_steroidresponse',
+		'past_medical_history',
+		'past_ocular_surgery',
+		'current_eye_medications',
 	),
 )); ?>

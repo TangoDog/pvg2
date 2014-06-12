@@ -54,6 +54,10 @@
 	<?php echo CHtml::encode($data->documented_target_refraction); ?>
 	<br />
 
+	<b><?php echo CHtml::encode($data->getAttributeLabel('current_systemic_medications')); ?>:</b>
+	<?php echo CHtml::encode($data->current_systemic_medications); ?>
+	<br />
+
 	<b><?php echo CHtml::encode($data->getAttributeLabel('holladay_ii_target_chosen')); ?>:</b>
 	<?php echo CHtml::encode($data->holladay_ii_target_chosen); ?>
 	<br />
@@ -1384,6 +1388,26 @@
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('edited_by')); ?>:</b>
 	<?php echo CHtml::encode($data->edited_by); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('pohx')); ?>:</b>
+	<?php echo CHtml::encode($data->pohx); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('pohx_oag_steroidresponse')); ?>:</b>
+	<?php echo CHtml::encode($data->pohx_oag_steroidresponse); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('past_medical_history')); ?>:</b>
+	<?php echo CHtml::encode($data->past_medical_history); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('past_ocular_surgery')); ?>:</b>
+	<?php echo CHtml::encode($data->past_ocular_surgery); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('current_eye_medications')); ?>:</b>
+	<?php echo CHtml::encode($data->current_eye_medications); ?>
 	<br />
 
 	*/ ?>

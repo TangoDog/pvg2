@@ -69,7 +69,6 @@ class RawdataController extends Controller
 
 		if(isset($_POST['Rawdata']))
 		{
-                    Yii::trace('Rawdata entered, $_POST is'.CVarDumper::dumpAsString($_POST));
 			$model->attributes=$_POST['Rawdata'];
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->id));

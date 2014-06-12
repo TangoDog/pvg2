@@ -58,12 +58,17 @@
 
 	<div class="row">
 		<?php echo $form->label($model,'diagnosis'); ?>
-		<?php echo $form->textField($model,'diagnosis',array('size'=>20,'maxlength'=>20)); ?>
+		<?php echo $form->textField($model,'diagnosis',array('size'=>60,'maxlength'=>60)); ?>
 	</div>
 
 	<div class="row">
 		<?php echo $form->label($model,'documented_target_refraction'); ?>
 		<?php echo $form->textField($model,'documented_target_refraction',array('size'=>8,'maxlength'=>8)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'current_systemic_medications'); ?>
+		<?php echo $form->textField($model,'current_systemic_medications',array('size'=>60,'maxlength'=>100)); ?>
 	</div>
 
 	<div class="row">
@@ -178,7 +183,7 @@
 
 	<div class="row">
 		<?php echo $form->label($model,'comments'); ?>
-		<?php echo $form->textField($model,'comments',array('size'=>20,'maxlength'=>20)); ?>
+		<?php echo $form->textField($model,'comments',array('size'=>60,'maxlength'=>60)); ?>
 	</div>
 
 	<div class="row">
@@ -1734,6 +1739,31 @@
 	<div class="row">
 		<?php echo $form->label($model,'edited_by'); ?>
 		<?php echo $form->textField($model,'edited_by'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'pohx'); ?>
+		<?php echo $form->textField($model,'pohx',array('size'=>60,'maxlength'=>100)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'pohx_oag_steroidresponse'); ?>
+		<?php echo $form->textField($model,'pohx_oag_steroidresponse',array('size'=>60,'maxlength'=>100)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'past_medical_history'); ?>
+		<?php echo $form->textField($model,'past_medical_history',array('size'=>60,'maxlength'=>100)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'past_ocular_surgery'); ?>
+		<?php echo $form->textField($model,'past_ocular_surgery',array('size'=>60,'maxlength'=>100)); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->label($model,'current_eye_medications'); ?>
+		<?php echo $form->textField($model,'current_eye_medications',array('size'=>60,'maxlength'=>100)); ?>
 	</div>
 
 	<div class="row buttons">

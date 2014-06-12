@@ -75,7 +75,7 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'diagnosis'); ?>
-		<?php echo $form->textField($model,'diagnosis',array('size'=>20,'maxlength'=>20)); ?>
+		<?php echo $form->textField($model,'diagnosis',array('size'=>60,'maxlength'=>60)); ?>
 		<?php echo $form->error($model,'diagnosis'); ?>
 	</div>
 
@@ -83,6 +83,12 @@
 		<?php echo $form->labelEx($model,'documented_target_refraction'); ?>
 		<?php echo $form->textField($model,'documented_target_refraction',array('size'=>8,'maxlength'=>8)); ?>
 		<?php echo $form->error($model,'documented_target_refraction'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'current_systemic_medications'); ?>
+		<?php echo $form->textField($model,'current_systemic_medications',array('size'=>60,'maxlength'=>100)); ?>
+		<?php echo $form->error($model,'current_systemic_medications'); ?>
 	</div>
 
 	<div class="row">
@@ -219,7 +225,7 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'comments'); ?>
-		<?php echo $form->textField($model,'comments',array('size'=>20,'maxlength'=>20)); ?>
+		<?php echo $form->textField($model,'comments',array('size'=>60,'maxlength'=>60)); ?>
 		<?php echo $form->error($model,'comments'); ?>
 	</div>
 
@@ -2081,6 +2087,36 @@
 		<?php echo $form->labelEx($model,'edited_by'); ?>
 		<?php echo $form->textField($model,'edited_by'); ?>
 		<?php echo $form->error($model,'edited_by'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'pohx'); ?>
+		<?php echo $form->textField($model,'pohx',array('size'=>60,'maxlength'=>100)); ?>
+		<?php echo $form->error($model,'pohx'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'pohx_oag_steroidresponse'); ?>
+		<?php echo $form->textField($model,'pohx_oag_steroidresponse',array('size'=>60,'maxlength'=>100)); ?>
+		<?php echo $form->error($model,'pohx_oag_steroidresponse'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'past_medical_history'); ?>
+		<?php echo $form->textField($model,'past_medical_history',array('size'=>60,'maxlength'=>100)); ?>
+		<?php echo $form->error($model,'past_medical_history'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'past_ocular_surgery'); ?>
+		<?php echo $form->textField($model,'past_ocular_surgery',array('size'=>60,'maxlength'=>100)); ?>
+		<?php echo $form->error($model,'past_ocular_surgery'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'current_eye_medications'); ?>
+		<?php echo $form->textField($model,'current_eye_medications',array('size'=>60,'maxlength'=>100)); ?>
+		<?php echo $form->error($model,'current_eye_medications'); ?>
 	</div>
 
 	<div class="row buttons">

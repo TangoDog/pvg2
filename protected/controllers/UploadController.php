@@ -96,13 +96,7 @@ class UploadController extends Controller
                                           exec("Rscript /var/www/pvg/protected/R/testExec.R", $output, $return);
                                           Yii::trace('Post entered, $return is'.CVarDumper::dumpAsString($return));
                                           Yii::trace('Post entered, $output is'.CVarDumper::dumpAsString($output));
-                                           // echo "Dir returned "  $return. " and output:\n";
-                                          //  var_dump($output);
-//                                        $img_add = new Picture();
-//                                        $img_add->filename = $pic->name; //it might be $img_add->name for you, filename is just what I chose to call it in my model
-//                                        $img_add->topic_id = $model->id; // this links your picture model to the main model (like your user, or profile model)
-//
-//                                        $img_add->save(); // DONE
+
                                     }
                                     else Yii::trace('File Save failed for '.$image->name);
                                 } // foreach
@@ -132,14 +126,22 @@ class UploadController extends Controller
 //                                        'updated' => 'Updated',
 //                                        'user_id' => 'User',
 //                                        'edited_by' => 'Edited By',
-                                        $data[] = "";  // primary key
+                                        $data[] = 0;  // primary key
                                         $data[] = date("Y/m/d"); //'created' => 'Created',
                                         $data[] = date("Y/m/d"); //'updated' => 'Updated',
-                                        $data[] = "1";       //'user_id' => 'User',
-                                        $data[] = "1";       //'edited_by' => 'Edited By',
+                                        $data[] =  1;       //'user_id' => 'User',
+                                        $data[] = 1;       //'edited_by' => 'Edited By',
                                         $atts = array_combine($keys,$data);
+                                        $atts['comments'] = substr($atts['comments'],0,48);
                                         $rawData->attributes=$atts ;
-//                                        if($rawData->save()){};  // don't do anything yet
+                                        
+                                        if($rawData->save()){
+                                           Yii::trace('RawData Record '. $row .' Created');
+                                        } else {
+                                           Yii::trace('RawData Record '. $row .' Failed Creation '.CVarDumper::dumpAsString($rawData->errors));
+                                           // Yii::trace('Validateion Errors:'.implode(", ",$rawData->errors));
+                                          
+                                        }
 //                                        $num = count($data);
 //                                        echo "<p> $num fields in line $row: <br /></p>";
 //                                        for ($c=0; $c < $num; $c++) {
