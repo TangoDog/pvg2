@@ -118,8 +118,8 @@ class UploadController extends Controller
                            if (($handle = fopen($csvFile, "r")) !== FALSE) {
                                 while (($data = fgetcsv($handle, ",")) !== FALSE) {
                                     // ignore the heading line - $ro1 ==1
-                                    if ($row==1) Yii::trace(CVarDumper::dumpAsString($data));
-                                    if ($row>1) {
+                                   // if ($row==1) Yii::trace(CVarDumper::dumpAsString($data));
+                                    if ($row> 1) {
                                         $rawData = new Rawdata;
                                         // these are the last five keys not collected in the csv read
 //                                        'id' => 'ID',
@@ -127,6 +127,12 @@ class UploadController extends Controller
 //                                        'updated' => 'Updated',
 //                                        'user_id' => 'User',
 //                                        'edited_by' => 'Edited By',
+                                        // REMOVE EXTRA STRAGGLING FIELDS
+                                        if (count($data)>345) {
+                                            for ($i=count($data);$i>245;$i--){
+                                                unset($data[$i]);
+                                            }
+                                        }
                                         $data[] = 0;  // primary key
                                         $data[] = date("Y/m/d"); //'created' => 'Created',
                                         $data[] = date("Y/m/d"); //'updated' => 'Updated',
@@ -139,11 +145,13 @@ class UploadController extends Controller
                                         
                                         if($rawData->save()){
                                            Yii::trace('RawData Record '. $row .' Created');
+                                           // NOW IF THE 
                                         } else {
                                            Yii::trace('RawData Record '. $row .' Failed Creation '.CVarDumper::dumpAsString($rawData->errors));
                                            // Yii::trace('Validateion Errors:'.implode(", ",$rawData->errors));
                                           
                                         }
+                                        
 //                                        $num = count($data);
 //                                        echo "<p> $num fields in line $row: <br /></p>";
 //                                        for ($c=0; $c < $num; $c++) {
@@ -155,6 +163,11 @@ class UploadController extends Controller
                                     
                                 }
                                 fclose($handle);
+                            }
+                            // do the calculations here
+                            if (($handle = fopen($csvFile, "r")) !== FALSE) {
+                                // execute the Rscript command in rscrpts folder, sending the name of the uploaded csvfile
+                                exec('Rscript '. Yii::getPathOfAlias('webroot').'/protected/rscripts/calcDmek.R --args '.$csvFile,$output,$return);
                             }
                                //$this->redirect(array('view','id'=>$model->id));
                        }

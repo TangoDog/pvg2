@@ -758,9 +758,18 @@ class Rawdata extends fmActiveRecord
 			'edited_by' => 'Edited By',
 		);
 	}
+        
+        /*
+         * if the fields sph6, cyl6 and m6_axis are empty this is a calculation
+         */
 
-	/**
-	 * Retrieves a list of models based on the current search/filter conditions.
+	public function calculate() {
+           if( empty($this->sph6) && empty($this->cyl6)&& empty($this->m6_axis)) {
+               
+           }
+        }
+	 /**
+         * * Retrieves a list of models based on the current search/filter conditions.
 	 *
 	 * Typical usecase:
 	 * - Initialize the model fields with values from filter form.
